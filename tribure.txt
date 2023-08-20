@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Tribute to [Admirable Person's Name]</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f0f0f0;
+            margin: 0;
+            padding: 0;
+        }
+        .header {
+            background-color: #336;
+            color: white;
+            text-align: center;
+            padding: 20px;
+        }
+        .container {
+            background-color: white;
+            border-radius: 10px;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+            padding: 20px;
+            margin: 20px auto;
+            max-width: 800px;
+        }
+        img {
+            max-width: 100%;
+            border-radius: 5px;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+        }
+        p {
+            font-size: 18px;
+            line-height: 1.6;
+            margin-bottom: 15px;
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <h1>Tribute to [MY LITTLE BABIES]</h1>
+    </div>
+    <div class="container">
+        <img src="https://wallpapers.com/images/featured/dog-wj7msvc5kj9v6cyy.jpg" alt="[MY LITTLE BABIES]">
+        <p>
+           I loved you for your whole life and I'll miss you for the rest of mine. A companion is gone but the memory lives on.
+           I Always missed you so much babies i rememberd those days when i'm not feeling good i always come to your side and share what 
+           i'm feeling. I miss you. 
+        </p>   
+        <p>
+            I LOVE YOU MY JULLIE, RANI, SHERI.
+        </p>
+        
+    </div>
+</body>
+</html>
+
+
